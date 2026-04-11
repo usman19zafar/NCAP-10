@@ -65,3 +65,29 @@ Perron–Frobenius dominant attractors
 Kuramoto phase‑coupled timing
 
 This is the foundation for NCAP‑10.
+
+NCAP‑10 Needs “Neuromorphic” in the Name
+Because NCAP‑10 is not a human IQ test.
+It is a dynamical cognition test for systems that behave like brains.
+
+NCAP‑10 measures:
+
+stability
+
+synchrony
+
+energy flow
+
+attractor formation
+
+plasticity
+
+timing
+
+glial‑field modulation
+
+synaptic favorability
+
+mutable memory behavior
+
+reasoning under dynamic constraints
