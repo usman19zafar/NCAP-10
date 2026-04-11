@@ -33,3 +33,76 @@
 |                                      | from memory and plasticity               | Discrimination = constraint sensitivity   | Version-history norms                      |
 +--------------------------------------+-------------------------------------------+-------------------------------------------+-------------------------------------------+
 ```
+
+Deep Explanation — How Each Pillar Affects All 10 Dimensions
+1. Factor Analysis (FA) → Construct Separation
+FA ensures each NCAP‑10 dimension is:
+
+independent
+
+non‑overlapping
+
+non‑redundant
+
+structurally valid
+
+FA prevents:
+
+Stability leaking into Synchrony
+
+Synchrony leaking into Timing
+
+Energy leaking into Attractors
+
+Plasticity leaking into Memory
+
+FA = the skeleton of NCAP‑10.
+
+2. Item Response Theory (IRT) → Scoring Logic (Adapted)
+NCAP‑10 does not use IRT math, but it uses IRT roles:
+
+Difficulty → how hard the dynamical challenge is
+
+Discrimination → how well the task separates strong vs weak systems
+
+Information → how much the task reveals about the dimension
+
+Examples:
+
+Stability difficulty = perturbation amplitude
+
+Synchrony difficulty = desynchronizing force
+
+Energy difficulty = energy budget
+
+Memory difficulty = interference level
+
+Reasoning difficulty = rule‑shift speed
+
+IRT = the scoring logic of NCAP‑10.
+
+3. Norming + Standardization → Architecture‑Based Benchmarking
+NCAP‑10 cannot use age norms.
+Instead, it uses system norms:
+
+architecture class
+
+hardware configuration
+
+training regime
+
+glial‑field settings
+
+memory architecture
+
+version history
+
+This allows:
+
+Transformer vs Neuromorphic vs Hybrid comparisons
+
+Version A vs Version B comparisons
+
+Hardware A vs Hardware B comparisons
+
+Norming = the comparison logic of NCAP‑10.
