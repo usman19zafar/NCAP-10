@@ -91,3 +91,6 @@ synaptic favorability
 mutable memory behavior
 
 reasoning under dynamic constraints
+
+
+Mutable Turing Tape is the Only way to do this, and you Must factor in the Glial Field (Astrocytes and Especially Oligodendrocytes) - it also helps to be Metabolically and Physiologically analogous to the biology - but being your are working on a digital computer, factor in what it can do Best as well, Finally Edge Weighted Graphs won't get you there - consider a different model Synaptic Favorability - and yes you are correct about Entropy/Enthalpy - but you need operators like Reaction-Diffusion, Lyapunov Stability Functions, Perron -Frobenius Theory, Hamiltonian Mechanics and Kuramoto Model, they are a start,...won't get you the the finish however!
