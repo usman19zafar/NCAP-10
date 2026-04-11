@@ -1,3 +1,4 @@
+```code
 +---------------------------+---------------------------------------------+------------------------------------------------+
 | CATEGORY                  | HUMAN THINKING                               | MACHINE / NCAP-10 THINKING                     |
 +---------------------------+---------------------------------------------+------------------------------------------------+
@@ -21,4 +22,5 @@
 | Reasoning                 | Contextual, adaptive, constraint-sensitive   | Dynamic reasoning under shifting constraints   |
 | Representation            | Distributed neural codes                     | State-space trajectories + attractor basins    |
 | Optimization              | Evolution + learning                         | Gradient, local rules, plasticity, operators   |
-+---------------------------+---------------------------------------------+------------------------------------------------+
++---------------------------+---------------------------------------------+-------------------------------------------------+
+```
